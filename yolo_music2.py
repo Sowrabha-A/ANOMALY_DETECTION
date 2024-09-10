@@ -23,10 +23,10 @@ sender_email = "sowrabha02@gmail.com"
 app_password = "pdfi nqtg wuqz lkga"
 recipient_email = "sowrabhaa.bharadwaj@gmail.com"
 subject = "ANOMALY IS DETECTED IN VIDEO"
-body = "ANOMALY IS BEING FOUND BE AWARE!!!!!!!!!!!!!!!"
+body = "ANOMALY IS FOUND BE AWARE!!!!!!!!!!!!!!!"
 
 # Load the song you want to play
-mixer.music.load('song1.mp3')
+mixer.music.load('song2_fire.mp3')
 
 def load_yolo():
     net = cv2.dnn.readNet("yolov3.weights", "yolov3.cfg")
