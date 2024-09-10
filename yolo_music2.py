@@ -19,8 +19,8 @@ anomaly_threshold = 5000  # Adjust according to your requirements
 anomaly_detected = False
 anomaly_sound_played = False
 
-sender_email = "sowrabha02@gmail.com"
-app_password = "pdfi nqtg wuqz lkga"
+sender_email = "your-gmail-address@gmail.com"
+app_password = "your-app-passkey"
 recipient_email = "sowrabhaa.bharadwaj@gmail.com"
 subject = "ANOMALY IS DETECTED IN VIDEO"
 body = "ANOMALY IS FOUND BE AWARE!!!!!!!!!!!!!!!"
