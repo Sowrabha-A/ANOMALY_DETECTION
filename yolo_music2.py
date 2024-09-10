@@ -21,7 +21,7 @@ anomaly_sound_played = False
 
 sender_email = "your-gmail-address@gmail.com"
 app_password = "your-app-passkey"
-recipient_email = "sowrabhaa.bharadwaj@gmail.com"
+recipient_email = "sender-address@gmail.com"
 subject = "ANOMALY IS DETECTED IN VIDEO"
 body = "ANOMALY IS FOUND BE AWARE!!!!!!!!!!!!!!!"
 
